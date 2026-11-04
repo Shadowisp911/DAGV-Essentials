@@ -38,3 +38,6 @@ __pycache__/
 
 # Log files
 *.log
+
+# Arnold auto-generated texture caches
+*.tx
